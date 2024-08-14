@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Welcome to Docker</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Welcome to Docker</h1>
-        <div class="links">
-            <a href="/c2">Api Tester</a>
-            <a href="/c3">EA Grafty</a>
-        </div>
-    </div>
-</body>
-</html>
-
-<style>
-    body {
+body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -55,4 +36,3 @@ h1 {
     background-color: #007bff;
     color: #fff;
 }
-</style>
